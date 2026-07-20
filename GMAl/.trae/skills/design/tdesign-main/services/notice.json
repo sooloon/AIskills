@@ -1,0 +1,15 @@
+{
+  "all": {},
+  "site": {},
+  "vue": {},
+  "react": {},
+  "vue-next": {},
+  "vue-mobile": {},
+  "react-mobile": {},
+  "miniprogram": {
+    "title": "🗓 tdesign-uniapp 版本官方站点上线，欢迎体验试用",
+    "type": "primary",
+    "actionUrl": "https://tdesign.tencent.com/uniapp",
+    "closeable": true
+  }
+}
