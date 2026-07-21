@@ -1,0 +1,13 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Platform configs (may contain sensitive info)
+.claude/
+.codebuddy/
+.workbuddy/
+.trae/settings.json
